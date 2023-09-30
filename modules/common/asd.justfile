@@ -1,4 +1,5 @@
 #Just
+[private]
 where:
     @echo The executable is at: {{just_executable()}}
 
